@@ -1,0 +1,3 @@
+codesign -f -s "silver926z@gmail.com" CryptoSwift   <<< 簽章用的 要簽CryptoSwift.framework裡面的執行檔
+
+
